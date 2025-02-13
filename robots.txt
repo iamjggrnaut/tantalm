@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /private/
+
+Sitemap: https://tantalm.ru/sitemap.xml
