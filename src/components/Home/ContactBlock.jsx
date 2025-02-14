@@ -97,7 +97,9 @@ const ContactBlock = () => {
               />
               <Marker position={position}>
                 <Popup>
-                  A pretty CSS3 popup. <br /> Easily customizable.
+                  <p style={{ color: "white" }}>
+                    Одинцовский р-н г.Голицино, <br /> Звенигородское ш. д. 15Б
+                  </p>
                 </Popup>
               </Marker>
             </MapContainer>
