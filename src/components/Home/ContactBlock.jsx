@@ -74,6 +74,8 @@ const ContactBlock = () => {
                 >
                   <FaTelegram />
                 </a>
+              </div>
+              <div className="mt-2">
                 <br />
                 <a
                   href="https://t.me/lasercuttingmos"
