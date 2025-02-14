@@ -78,7 +78,7 @@ const ContactBlock = () => {
                   href="https://t.me/lasercuttingmos"
                   target="_blank"
                   style={{
-                    fontSize: "24px",
+                    fontSize: "16px",
                     color: "white",
                     textDecoration: "none",
                   }}
