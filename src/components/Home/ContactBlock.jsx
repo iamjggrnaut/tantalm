@@ -97,7 +97,7 @@ const ContactBlock = () => {
               />
               <Marker position={position}>
                 <Popup>
-                  <p style={{ color: "white" }}>
+                  <p style={{ color: "black" }}>
                     Одинцовский р-н г.Голицино, <br /> Звенигородское ш. д. 15Б
                   </p>
                 </Popup>
