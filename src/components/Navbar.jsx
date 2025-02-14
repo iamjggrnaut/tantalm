@@ -118,10 +118,12 @@ const Navbar = () => {
           >
             <FaTelegram />
           </a>
+        </div>
+        <div className="mt-2">
           <a
             href="https://t.me/lasercuttingmos"
             target="_blank"
-            style={{ fontSize: "24px", color: "white", textDecoration: 'none' }}
+            style={{ fontSize: "16px", color: "white", textDecoration: "none" }}
           >
             Наш TG канал
           </a>
