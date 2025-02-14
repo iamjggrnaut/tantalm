@@ -23,7 +23,7 @@ const Home = ({ action }) => {
     <div className="home-page">
       <Helmet>
         <title>
-          Tantalm - компания по производству металлических изделий,
+          Tantal - компания по производству металлических изделий,
           металлообработке и лазерной резке
         </title>
         <meta

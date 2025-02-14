@@ -11,7 +11,7 @@ const Products = ({ action }) => {
   return (
     <div className="products-page">
       <Helmet>
-        <title>TantalM - наша продукция. Металлические изделия</title>
+        <title>Tantal - наша продукция. Металлические изделия</title>
         <meta
           name="description"
           content="Металлические изделия. Наша продукция"
